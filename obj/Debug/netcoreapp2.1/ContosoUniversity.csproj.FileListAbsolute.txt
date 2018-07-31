@@ -34,3 +34,4 @@ D:\资料\.net core2.0实例\ContosoUniversity\ContosoUniversity\obj\Debug\netco
 D:\资料\.net core2.0实例\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Details.g.cshtml.cs
 D:\资料\.net core2.0实例\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Edit.g.cshtml.cs
 D:\资料\.net core2.0实例\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Index.g.cshtml.cs
+D:\资料\.net core2.0实例\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\ContosoUniversity.csprojAssemblyReference.cache

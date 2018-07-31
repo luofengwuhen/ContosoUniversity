@@ -25,8 +25,8 @@ namespace ContosoUniversity
                 try
                 {
                     var context = services.GetRequiredService<SchoolContext>();
-                    //context.Database.EnsureCreated(); 
-                    DbInitializer.Initialize(context);
+                    //context.Database.EnsureCreated(); //根据实体,创建表结构
+                    DbInitializer.Initialize(context); //加载默认数据
                 }
                 catch (Exception ex)
                 {

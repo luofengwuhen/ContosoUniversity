@@ -11,7 +11,7 @@ namespace ContosoUniversity.Data
             // context.Database.EnsureCreated();
 
             // Look for any students.
-            if (context.Student.Any())
+            if (context.Student.Any()) //如果已存在,则跳过
             {
                 return;   // DB has been seeded
             }
